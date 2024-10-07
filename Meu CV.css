@@ -1,0 +1,91 @@
+.nome_principal{
+    background-color: #E6E6FA;
+    text-align: center;
+    color: #000080;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 5px;
+    font-weight: bold;
+    position: relative;
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+
+.info_subnome{
+    text-align: center;
+    position: relative;
+    font-size: 10px;
+    margin-top: 0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    background-color: #c6c8e8;
+    margin-top: 0;
+
+}
+
+.titulo_css{
+    background-color: #ccc;
+    color: #000080;
+    font-size: 20px;
+    position: relative;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    border-bottom: 3px solid #000080;
+
+}
+
+.info_objetivo{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ; 
+}
+.info_exp{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+.titulo_empresa{
+    color: blue;
+    font-weight: bold;
+}
+
+.cursos{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.lista{
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.menu{
+    text-align: right;
+}
+
+.menu li{
+    list-style: none;
+    display: inline-block;
+    padding: 0;
+}
+
+.menu a{
+    background-color: #c1bebe;
+    padding: 16px;
+    display: inline-block;
+}
+
+.menu a:hover{
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+}
+
+.subtitle{
+    color:red;
+}
